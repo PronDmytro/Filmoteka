@@ -1,0 +1,19 @@
+Автоматизована інформаційно-пошукова система Фільмотека
+[films]
+	id
+	name
+	genre
+	release_dt
+	directorId
+	companyId
+		
+[company]
+	id		
+	name			
+
+
+[filmDirector]
+	id
+	name
+
+
